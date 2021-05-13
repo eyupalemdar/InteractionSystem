@@ -5,6 +5,7 @@ Technical Details
 Features:
  * Interactor and Interactable components with useful Interfaces
  * %100 Blueprinted
+ * Interaction can be happened Instantly, Hold Duration or Rule Based. 
  * Replication (Networking / Multiplayer Support)
 
 Input: N/A
