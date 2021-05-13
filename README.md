@@ -12,4 +12,4 @@ Input: N/A
 Network Replicated: Yes  
 Supported Development Platforms:  
  * Windows: Yes
- * Mac: No
+ * Mac: Yes
