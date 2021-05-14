@@ -1,7 +1,7 @@
 # Interaction System Component
 ![Image](https://github.com/eyupalemdar/InteractionSystem/blob/main/Resources/interaction-system.gif)
 
-Interaction System component is used to interact different actors in Unreal Engine. These interactions can assume any form, for example taking a weapon, mounting/dismounting a horse etc. During these interactions, characters can play animations and provide other player feedback. Multiple characters can be interacted with same actor or you can define rules in what condition interaction can be happened.
+Interaction System component is used to interact different actors in Unreal Engine. These interactions can assume any form, for example taking a weapon, mounting/dismounting a horse etc. During these interactions, characters can play animations and provide other player feedback. Multiple characters can be interacted with same actor or you can define rules in what condition interaction can be happened. Inspired by [Amiran's project.](https://github.com/Amirans/InteractionPlugin)
 
 ## Supported Platforms
 - Windows
